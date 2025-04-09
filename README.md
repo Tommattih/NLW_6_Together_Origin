@@ -1,5 +1,5 @@
 ## NLW_Together_Origin 
-[https://tommattih.github.io/NLW_Together_Origin/](https://tommattih.github.io/NLW_Together_Origin/)
+[https://tommattih.github.io/NLW_Together_Origin/](https://tommattih.github.io/NLW_6_Together_Origin/)
 
 ### Projeto baseado na trilha Origin da 6# Next Level Week da Rocketseat
 **Dia 1**
